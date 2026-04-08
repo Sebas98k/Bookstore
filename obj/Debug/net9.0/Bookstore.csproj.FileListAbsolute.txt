@@ -1,0 +1,14 @@
+/Users/administrator/Desktop/Bookstore/bin/Debug/net9.0/Bookstore
+/Users/administrator/Desktop/Bookstore/bin/Debug/net9.0/Bookstore.deps.json
+/Users/administrator/Desktop/Bookstore/bin/Debug/net9.0/Bookstore.runtimeconfig.json
+/Users/administrator/Desktop/Bookstore/bin/Debug/net9.0/Bookstore.dll
+/Users/administrator/Desktop/Bookstore/bin/Debug/net9.0/Bookstore.pdb
+/Users/administrator/Desktop/Bookstore/obj/Debug/net9.0/Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrator/Desktop/Bookstore/obj/Debug/net9.0/Bookstore.AssemblyInfoInputs.cache
+/Users/administrator/Desktop/Bookstore/obj/Debug/net9.0/Bookstore.AssemblyInfo.cs
+/Users/administrator/Desktop/Bookstore/obj/Debug/net9.0/Bookstore.csproj.CoreCompileInputs.cache
+/Users/administrator/Desktop/Bookstore/obj/Debug/net9.0/Bookstore.dll
+/Users/administrator/Desktop/Bookstore/obj/Debug/net9.0/refint/Bookstore.dll
+/Users/administrator/Desktop/Bookstore/obj/Debug/net9.0/Bookstore.pdb
+/Users/administrator/Desktop/Bookstore/obj/Debug/net9.0/Bookstore.genruntimeconfig.cache
+/Users/administrator/Desktop/Bookstore/obj/Debug/net9.0/ref/Bookstore.dll
