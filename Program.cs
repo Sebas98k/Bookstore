@@ -13,7 +13,7 @@ class LibraryManager
         while (true)
         {
             Console.WriteLine("Would you like to add or remove a book? (add/remove/exit)");
-            string action = Console.ReadLine();
+            string action = Console.ReadLine()?.Trim().ToLower();
 
             if (action == "add")
             {
