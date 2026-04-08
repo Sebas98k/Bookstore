@@ -10,3 +10,6 @@ We implemented logic to:
 - Error check if the library is empty.
 - Provide a constant loop for adding/removing/exiting.
 - Print out the non-empty variables to show the available books.
+
+## Part 2: Debugging
+- Added `.ToLower()` string manipulation to the action variable to ensure that uppercase commands (like "ADD", "Remove") still function properly.
